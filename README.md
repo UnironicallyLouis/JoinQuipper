@@ -34,7 +34,7 @@ We assume 3-4 hours.
 
 ### How to submit
 
-1. Send a link to the cloned repositiry to Quipper (tomo@quipper.com) or your agency
+1. Send a url to the cloned repositiry to tech-staff@quipper.com or your agency when you comes from an agency
 
 ### What we expect in this test
 
