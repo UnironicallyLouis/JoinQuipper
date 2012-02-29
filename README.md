@@ -1,10 +1,14 @@
 ## Join Quipper test
 
+If you have any questions about this test, this position and Quipper, please email to tech-staff@quipper.com .
+
+### Mission
+
 Create a simple tasks management (TODO style) web application.
 
-### Test time
+### Expected time
 
-We assume 3-4 hours.
+3-4 hours.
 
 ### User stories to be implemented
 
