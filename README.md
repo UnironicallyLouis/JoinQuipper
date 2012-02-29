@@ -1,10 +1,10 @@
 ## Join Quipper test
 
-Create a simple task management (TODO style) web application.
+Create a simple tasks management (TODO style) web application.
 
 ### Test time
 
-We assumes 2-3 hours.
+We assume 3-4 hours.
 
 ### User stories to be implemented
 
@@ -30,7 +30,7 @@ We assumes 2-3 hours.
 ### How to take this test
 
 1. Clone this repository to your github account
-1. Implement the user stories
+1. Implement the user stories above
 
 ### How to submit
 
@@ -38,16 +38,16 @@ We assumes 2-3 hours.
 
 ### What we expect in this test
 
-* Good quality code (logical / simple / DRY)
-* Tests covered well
-* Working knowledge of Ruby/RoR
-* Working knowledge of libraries related to Ruby/RoR
-* Working knowledge of Git (Github) operation
-* Ability of building simple but rich user interface web system 
+* You skill of writing code (logical / simple / DRY)
+* Your working knowledge of testing.
+* Your working knowledge of Ruby / RoR
+* Your working knowledge of libraries related to Ruby/RoR
+* Your working knowledge of Git (Github) operation
+* Your total ability of building a simple but rich user interface web system 
 
 ### What we don't expect in this test
 
-* User / Session management
+* User / session management
 * Number of tasks are completed
 
 ### Bonus user stories
