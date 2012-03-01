@@ -33,12 +33,12 @@ Create a simple tasks management (TODO style) web application.
 
 ### How to take this test
 
-1. Clone this repository to your github account
-1. Implement the user stories above
+1. Create a repository in your github account
+1. Implement the user stories above on the repository
 
 ### How to submit
 
-1. Send a url to the cloned repositiry to tech-staff@quipper.com or your agency when you comes from an agency
+1. Send a url to the repositiry to tech-staff@quipper.com or your agency when you comes from an agency
 
 ### What we want to see in this test
 
@@ -54,7 +54,7 @@ Create a simple tasks management (TODO style) web application.
 * User / session management
 * Number of user stories are completed
 
-### Bonus user stories
+### "Nice to have" user stories
 
 * As a user, I want to see tasks list ordered by created date
 * As a user, I want to see tasks list ordered by deadline
